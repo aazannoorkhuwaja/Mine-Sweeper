@@ -34,5 +34,3 @@ To run this project:
 ## License
 
 This project is open for educational and learning purposes.
-
-```
