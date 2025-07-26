@@ -1,4 +1,4 @@
-# Minesweeper Console Game (1st Semester PF Final Project)
+# Minesweeper Console Game 
 
 This is a console-based Minesweeper game built using C++. It uses a grid system navigated via X and Y coordinates, allowing users to uncover cells and avoid mines. The game simulates classic Minesweeper mechanics in a terminal/console environment without a graphical interface.
 
