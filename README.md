@@ -18,6 +18,10 @@ This project was developed as the final project for the **Programming Fundamenta
 
 While the structure and flow of the project were a collaborative effort, **the core logic and gameplay mechanism were built by my classmate and teammate, Munawar**. Huge thanks to him for being a wonderful collaborator throughout the project!
 
+## 📸 Screenshots
+
+![Screenshot 1](pic-full-250726-1849-37.png)
+
 ## Getting Started
 
 To run this project:
