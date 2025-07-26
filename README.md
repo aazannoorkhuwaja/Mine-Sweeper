@@ -20,7 +20,7 @@ While the structure and flow of the project were a collaborative effort, **the c
 
 ## 📸 Screenshots
 
-![Screenshot 1](pic-full-250726-1849-37.png)
+![](sample/pic-full-250726-1849-37.png)
 
 ## Getting Started
 
